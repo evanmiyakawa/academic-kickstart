@@ -21,16 +21,29 @@ subtitle = ""
   description = "Advanced"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Intermediate"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "15%"
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS EC2"
+  description = "Intermediate"
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Shiny"
+  description = "Intermediate"
+  
+[[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C++"
+  description = "Beginner"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
