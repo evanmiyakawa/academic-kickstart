@@ -1,7 +1,7 @@
 ---
 title: "EvanMiya CBB Analytics"
 author: "Evan Miyakawa"
-summary: "A college basketball analytics website that assesses the strength of all players and teams"
+summary: "A college basketball analytics website"
 # date: "2018-06-28"
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
