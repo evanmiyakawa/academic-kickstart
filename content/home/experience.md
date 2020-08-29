@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Statistical Consultant"
+  company = "Baylor University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Waco, TX"
+  date_start = "2019-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """As a part of my graduate assistantship, I consulted on various projects within the university. I worked on a paper with professors in the Economics and Health Services Research departments, implementing the recycled predictions bootstrap method. I also do some classified consultant work for Eli Lilly's statistics department."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Chief Data Wrangler"
+  company = "Wakefield Research Partners"
+  company_url = "https://www.wakefieldresearchpartners.com/"
+  location = "Waco, TX"
+  date_start = "2019-06-01"
+  date_end = ""
+  description = """I provide technical support in R for the company, and automate data generation processes."""
+  
+[[experience]]
+  title = "Introduction to Statistics Teacher"
+  company = "Baylor University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Waco, TX"
+  date_start = "2018-08-01"
+  date_end = "2019-05-31"
+  description = """I taught two semesters of Intro to Stats for undergraduate students. I also tutored students studying stats at the undergraduate and graduate level."""
+  
+[[experience]]
+  title = "Data Analyst Intern"
+  company = "Global Media Outreach"
+  company_url = "https://globalmediaoutreach.com/"
+  location = "Plano, TX"
+  date_start = "2016-06-01"
+  date_end = "2016-08-31"
+  description = """I conducted statistical analysis and provided reports on advertisement campaigns, online missionary performance, and donation trends. My research on advertisement campaigns led to over $40,000 saved by the organization in just two months, based on my provided reports."""
 
 +++
