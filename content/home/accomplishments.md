@@ -26,7 +26,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-15"
   date_end = ""
-  description = """Test this"""
+  description = """Test this
+  
+  - Part one
+  """
 
 [[item]]
   organization = "edX"
