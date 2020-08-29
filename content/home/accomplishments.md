@@ -26,29 +26,24 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-15"
   date_end = ""
-  description = """Test this
+  description = """I Presented a talk on common bayesian computational methods and implementations, which contrasts each and gives general guidelines for use. The paper form of this presentation is being written and will be a chapter in my dissertation.
   
-  - Part one
+  Highlights:
+  - Gives overview of Gibbs Sampling and Hamiltonian Monte Carlo methods.
+  - The presentation addresses strengths and weaknesses of STAN, JAGS, OpenBUGS, Nimble, and Greta, and compares their respective computation
+time and accuracy.
+  - Addresses strengths and weaknesses of STAN, JAGS, OpenBUGS, Nimble, and Greta, and compares their respective computation time and
+accuracy.
   """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = "TRICARE for Life: The Impact of Reduced Cost-Sharing on Health Care Use"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2020-08-15"
+  date_end = ""
+  description = """This paper is being submitted for review, co‑authored by Dr. Forest Kim and Dr. Neil Fleming at Baylor University. I contributed to this paper by applying the recycled predictions bootstrap method in order to find the impact of a policy change on expenditures for patients of various health insurance types."""
 
 +++
