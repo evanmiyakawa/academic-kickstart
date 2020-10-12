@@ -26,14 +26,12 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-15"
   date_end = ""
-  description = """I Presented a talk on common bayesian computational methods and implementations, which contrasts each and gives general guidelines for use. The paper form of this presentation is being written and will be a chapter in my dissertation.
+  description = """I presented a talk on common Bayesian computational methods and implementations, which contrasts each and gives general guidelines for use. The paper form of this presentation is being written and will be a chapter in my dissertation.
   
   Highlights:
   - Gives overview of Gibbs Sampling and Hamiltonian Monte Carlo methods.
   - The presentation addresses strengths and weaknesses of STAN, JAGS, OpenBUGS, Nimble, and Greta, and compares their respective computation
 time and accuracy.
-  - Addresses strengths and weaknesses of STAN, JAGS, OpenBUGS, Nimble, and Greta, and compares their respective computation time and
-accuracy.
   """
 
 [[item]]

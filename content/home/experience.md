@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Statistical Consultant"
+  title = "Graduate Assistant"
   company = "Baylor University"
   company_url = "https://www.baylor.edu/"
   location = "Waco, TX"
   date_start = "2019-08-01"
   date_end = ""
-  description = """As a part of my graduate assistantship, I consulted on various projects within the university. I worked on a paper with professors in the Economics and Health Services Research departments, implementing the recycled predictions bootstrap method. I also do some classified consultant work for Eli Lilly's statistics department."""
+  description = """My graduate assistantship included statistical consulting with various projects at Baylor, including a (soon to be published) paper implementing the recycled predictions bootstrap method with professors in the Economics and Health Services Research departments. I am also involved in classified consulting work for Eli Lilly and Company’s statistics department."""
 
 [[experience]]
   title = "Chief Data Wrangler"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Waco, TX"
   date_start = "2019-06-01"
   date_end = ""
-  description = """I provide technical support in R for the company, and automate data generation processes."""
+  description = """I provide company-wide technical support in R, and I automate data generation processes."""
   
 [[experience]]
   title = "Introduction to Statistics Teacher"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Waco, TX"
   date_start = "2018-08-01"
   date_end = "2019-05-31"
-  description = """I taught two semesters of Intro to Stats for undergraduate students. I also tutored students studying stats at the undergraduate and graduate level."""
+  description = """I taught two semesters of Introduction to Stats for undergraduate students. I also tutored students studying statistics at the undergraduate and graduate levels."""
   
 [[experience]]
   title = "Data Analyst Intern"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Plano, TX"
   date_start = "2016-06-01"
   date_end = "2016-08-31"
-  description = """I conducted statistical analysis and provided reports on advertisement campaigns, online missionary performance, and donation trends. My research on advertisement campaigns led to over $40,000 saved by the organization in just two months, based on my provided reports."""
+  description = """I conducted statistical analysis and provided reports on the effectiveness of advertisement campaigns, the performance of online communication volunteers, and donation trends. My research on advertisement campaigns led to over $40,000 saved by the organization in just two months."""
 
 +++
