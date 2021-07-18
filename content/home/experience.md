@@ -25,6 +25,15 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = """My graduate assistantship included statistical consulting with various projects at Baylor, including a (soon to be published) paper implementing the recycled predictions bootstrap method with professors in the Economics and Health Services Research departments. I am also involved in classified consulting work for Eli Lilly and Company’s statistics department."""
+  
+[[experience]]
+  title = "Summer Associate"
+  company = "Institute for Defense Analyses"
+  company_url = "https://www.ida.org/"
+  location = "Alexandria, VA"
+  date_start = "2021-06-01"
+  date_end = "2021-08-07"
+  description = """I Worked on classified projects sponsored by the Department of Defense,related to quantifying predictive uncertainty in machine learning forecasts."""
 
 [[experience]]
   title = "Chief Data Wrangler"
