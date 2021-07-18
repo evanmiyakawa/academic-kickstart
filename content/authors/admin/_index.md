@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Statistics (still in program)
     institution: Baylor University
-    year: 2020
+    year: 2021
   - course: M.S. in Statistics
     institution: Baylor University
     year: 2018
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Evan Miyakawa, and I am a 4th year Ph.D. student in Statistics at Baylor University. I obtained my Masters degree in Statistics from Baylor in 2018. I previously received my bachelors degree in Mathematics from Taylor University in 2017. In my spare time, I run a college basketball analytics website at https://evanmiya.com.
+My name is Evan Miyakawa, and I am the 5th year Ph.D. student in Statistics at Baylor University, hoping to graduate in December of 2021. I obtained my Masters degree in Statistics from Baylor in 2018. I previously received my bachelors degree in Mathematics from Taylor University in 2017. In my spare time, I run a college basketball analytics website at https://evanmiya.com.
