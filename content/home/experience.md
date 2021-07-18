@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Alexandria, VA"
   date_start = "2021-06-01"
   date_end = "2021-08-07"
-  description = """I Worked on classified projects sponsored by the Department of Defense,related to quantifying predictive uncertainty in machine learning forecasts."""
+  description = """I worked on classified projects sponsored by the Department of Defense,related to quantifying predictive uncertainty in machine learning forecasts."""
 
 [[experience]]
   title = "Chief Data Wrangler"
