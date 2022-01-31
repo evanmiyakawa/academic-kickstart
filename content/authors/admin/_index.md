@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Statistics Ph.D. Candidate
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Baylor University
-  url: ""
+- name: Zelus Analytics
+  url: "https://zelusanalytics.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical computation methods, bayesian statistics, statistical machine learning, big data, and sports analytics.
@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Statistics (still in program)
+  - course: Ph.D. in Statistics
     institution: Baylor University
-    year: 2021
+    year: 2022
   - course: M.S. in Statistics
     institution: Baylor University
     year: 2018
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Evan Miyakawa, and I am the 5th year Ph.D. student in Statistics at Baylor University, hoping to graduate in December of 2021. I obtained my Masters degree in Statistics from Baylor in 2018. I previously received my bachelors degree in Mathematics from Taylor University in 2017. In my spare time, I run a college basketball analytics website at https://evanmiya.com.
+My name is Evan Miyakawa, and I am a Ph.D. statistician, working as a Data Scientist for [Zelus Analytics](https://zelusanalytics.com/). I obtained my doctorate in Statistics from Baylor in 2022. I previously received my bachelors degree in Mathematics from Taylor University in 2017. In my spare time, I run a college basketball analytics website at [EvanMiya.com](https://evanmiya.com).

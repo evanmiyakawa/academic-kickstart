@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Contributions to the Practical Application of Bayesian Methods to Survival Analysis in Clinical Trials"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-15"
+  date_end = "2022-01-31"
+  description = """My dissertation deals with several distinct concepts, including Bayesian computational methods, model selection in network meta-analysis with clinical trial data, and quantifying forecast uncertainty in machine learning. 
+  
+  Highlights:
+  - The first chapter serves as a "one-stop shop" for bayesian computational methods. Common MCMC methods are studied, and a simulation study compares the performance of several popular Bayesian computing platforms in R.
+  - The second chapter we assesses the performance of several model selection criteria for a complex family of network meta- analysis models for survival data. 
+  - We also propose a technique for study outlier detection and present simulation results that demonstrate its effectiveness. Finally, the third chap- ter covers methods for constructing prediction intervals for forecasts for various machine learning algorithms. 
+  - The third chapter proposes a new technique for measuring forecast uncertainty that can be used on a wide set of machine learning models.
+  """
+
 [[item]]
   organization = ""
   organization_url = ""

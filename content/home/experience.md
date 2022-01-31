@@ -17,13 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data Scientist"
+  company = "Zelus Analytics"
+  company_url = "https://www.zelusanalytics.com/"
+  location = "Remote"
+  date_start = "2021-11-01"
+  date_end = ""
+  description = """I work as a data scientist for the NBA group at Zelus Analytics, serving multiple NBA clients by creating advanced statistical models for evaluating things like player performance and insights from tracking data."""
+
 [[experience]]
   title = "Graduate Assistant"
   company = "Baylor University"
   company_url = "https://www.baylor.edu/"
   location = "Waco, TX"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2022-01-31"
   description = """My graduate assistantship included statistical consulting with various projects at Baylor, including a (soon to be published) paper implementing the recycled predictions bootstrap method with professors in the Economics and Health Services Research departments. I am also involved in classified consulting work for Eli Lilly and Company’s statistics department."""
   
 [[experience]]
