@@ -14,8 +14,8 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Zelus Analytics
-  url: "https://zelusanalytics.com/"
+- name: EvanMiya.com CBB Analytics
+  url: "https://evanmiya.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical computation methods, bayesian statistics, statistical machine learning, big data, and sports analytics.
@@ -34,7 +34,7 @@ education:
     year: 2022
   - course: M.S. in Statistics
     institution: Baylor University
-    year: 2018
+    year: 2019
   - course: B.S. in Mathematics
     institution: Taylor University
     year: 2017
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Evan Miyakawa, and I am a Ph.D. statistician, working as a Data Scientist for [Zelus Analytics](https://zelusanalytics.com/). I obtained my doctorate in Statistics from Baylor in 2022. I previously received my bachelors degree in Mathematics from Taylor University in 2017. In my spare time, I run a college basketball analytics website at [EvanMiya.com](https://evanmiya.com).
+My name is Evan Miyakawa, and I am a Ph.D. statistician, founder and CEO of college basketball advanced analytics website [EvanMiya.com](https://evanmiya.com). I previously worked as a Data Scientist for [Zelus Analytics](https://zelusanalytics.com/). I obtained my doctorate in Statistics from Baylor, and my bachelors degree in Mathematics from Taylor University.

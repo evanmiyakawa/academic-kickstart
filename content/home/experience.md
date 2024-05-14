@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -19,13 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Founder and Lead Scientist"
+  company = "EvanMiya.com CBB Analytics"
+  company_url = "https://www.evanmiya.com/"
+  location = "Remote"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = """I have maintain an industry-leading college basketball advanced analytics website that measures team and player performance, provides lineup insights, has a state-of-the-art game prediction algorithm, and houses the most well known data-driven transfer portal rankings in CBB, among other things. I have created two novel statistical metrics that drive many of the website features: Bayesian Performance Rating, an all-in-one metric for quantifying player value, and Relative Ratings, an approach to measuring team strength that ranks teams relative to other teams of similar quality. Read more at EvanMiya.com and blog.evanmiya.com."""
+
+[[experience]]
   title = "Data Scientist"
   company = "Zelus Analytics"
   company_url = "https://www.zelusanalytics.com/"
   location = "Remote"
   date_start = "2021-11-01"
-  date_end = ""
-  description = """I work as a data scientist for the NBA group at Zelus Analytics, serving multiple NBA clients by creating advanced statistical models for evaluating things like player performance and insights from tracking data."""
+  date_end = "2024-05-01"
+  description = """I worked as a data scientist for the NBA analytics group at Zelus Analytics, serving multiple NBA teams by creating advanced statistical models for evaluating things like player performance and insights from tracking data."""
 
 [[experience]]
   title = "Graduate Assistant"
@@ -51,8 +60,8 @@ date_format = "Jan 2006"
   company_url = "https://www.wakefieldresearchpartners.com/"
   location = "Waco, TX"
   date_start = "2019-06-01"
-  date_end = ""
-  description = """I provide company-wide technical support in R, and I automate data generation processes."""
+  date_end = "2021-01-01"
+  description = """I provide company-wide technical support in R and I automate data generation processes."""
   
 [[experience]]
   title = "Introduction to Statistics Teacher"
@@ -63,13 +72,4 @@ date_format = "Jan 2006"
   date_end = "2019-05-31"
   description = """I taught two semesters of Introduction to Stats for undergraduate students. I also tutored students studying statistics at the undergraduate and graduate levels."""
   
-[[experience]]
-  title = "Data Analyst Intern"
-  company = "Global Media Outreach"
-  company_url = "https://globalmediaoutreach.com/"
-  location = "Plano, TX"
-  date_start = "2016-06-01"
-  date_end = "2016-08-31"
-  description = """I conducted statistical analysis and provided reports on the effectiveness of advertisement campaigns, the performance of online communication volunteers, and donation trends. My research on advertisement campaigns led to over $40,000 saved by the organization in just two months."""
-
 +++

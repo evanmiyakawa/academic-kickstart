@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Baylor University"
+org_name = "EvanMiya.com"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "evanmiyakawa@gmail.com"
+email = "evanmiyainfo@gmail.com"
 # phone = "(317) 914-3585"
 
 # Address
@@ -97,7 +97,8 @@ email = "evanmiyakawa@gmail.com"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.465476", longitude = "-85.496227"}
+coordinates = ""
+# coordinates = {latitude = "40.465476", longitude = "-85.496227"}
 
 # Directions for visitors to locate you.
 directions = ""
